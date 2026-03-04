@@ -1,0 +1,1 @@
+MyBazaar is a Java-based console application that simulates an e-commerce platform. The system reads operational commands and initial data from text files to manage a diverse product inventory , handle different user roles (Admin, Customer, Tech) , and process shopping cart transactions and promotional campaigns.
